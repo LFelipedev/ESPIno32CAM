@@ -4,8 +4,8 @@
 
 #include "Arduino.h"
 #include "esp_camera.h" // camera
-#include "fd_forward.h" // face Detect
-#include "fr_forward.h" // face Recognition
+//#include "fd_forward.h" // face Detect
+//#include "fr_forward.h" // face Recognition
 #include "fb_gfx.h" 
 #include "image_util.h"
 
